@@ -1,4 +1,4 @@
-# zcdc
+# Zombie Crisis: Director's Cut (Windows, PlayStation Portable, PlayStation Vita)
 
 Details: Repository for downloads and content for Zombie Crisis: Director's Cut for Windows, PlayStation Portable (PSP) and PlayStation Vita
 
