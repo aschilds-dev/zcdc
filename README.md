@@ -28,7 +28,7 @@ Installation instructions for PlayStation Vita:
 
 The PlayStation Portable release of Zombie Crisis: Director's Cut has a signed EBOOT which should theoretically allow the game to be ran on any PSP system regardless if it's running custom firmware or not. The EBOOT was signed in hopes of making installation as painless as possible for players to allow them to enjoy the game without issue. For use on the PlayStation Vita however a modded console with custom firmware is still required as the emulated PSP will need direct file access to copy the game data to a specific directory to run the homebrew.
 
-Tested on Windows, PSP-1000/2000/3000 and PSP Go/N1000 model consoles as well as PlayStation Vita model PCH-1101 running custom firmware.
+Tested on Windows, PSP-1000/2000/3000 and PSP Go/N1000 model consoles as well as PlayStation Vita model PCH-1001 running custom firmware.
 
 Known issues:
 - On the PSP version it will swap to your melee weapon after running out of ammo, as a workaround you can use the up and down buttons on the dpad to swap back to your M14 rifle. Issue not known to effect the Windows version.
